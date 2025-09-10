@@ -1,0 +1,37 @@
+{
+  "name": "todo-list-app",
+  "version": "1.0.0",
+  "description": "A simple todo list web application built with React.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [
+    "todo",
+    "react",
+    "web",
+    "application"
+  ],
+  "author": "Le Dang Quynh Anh",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^6.3.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "homepage": "https://ledagwahn.github.io/todo-list-app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ledagwahn/todo-list-app.git"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ]
+}
