@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Todo List Application
 
 This is a simple Todo List web application built with React. It allows users to manage their tasks efficiently by adding, removing, and toggling the completion status of todo items.
@@ -53,3 +54,6 @@ If you would like to contribute to this project, please fork the repository and 
 ## License
 
 This project is licensed under the MIT License.
+=======
+# todo-list-app
+>>>>>>> 76959fd23876e21df0a0b7529154d7abac8fe5c9
